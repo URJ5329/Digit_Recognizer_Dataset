@@ -1,1 +1,1 @@
-# Digit_Recognizer_Dataset_Kaggle
+# Digit_Recognizer_Dataset
